@@ -1,4 +1,4 @@
-# generator-ng-voam [![Build Status](https://secure.travis-ci.org/z3bbster/generator-ng-voam.png?branch=master)](https://travis-ci.org/z3bbster/generator-ng-voam)
+# generator-ng-voam [![Build Status](https://secure.travis-ci.org/z3bbster/generator-ng-voam.png?branch=master)](https://travis-ci.org/z3bbster/generator-ng-voam) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/z3bbster/voam?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 > NG-VOAM - AngularJS Versatile Online Application Manager, a SPA webapp generator for [Yeoman](http://yeoman.io). The one stopshop with over 20+ predefined grunt tasks for development and production phase. Additionally it will offer 13 great AngularJS specific sub-generators to work with in your project.
 

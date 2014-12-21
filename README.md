@@ -90,7 +90,7 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 
 Have a bug, enhancement, idea or question? Please create an issue here on GitHub!
 
-https://github.com/z3bbster/MishaMesh/issues
+https://github.com/z3bbster/generator-ng-voam/issues
 
 ## :busts_in_silhouette: Authors
 
